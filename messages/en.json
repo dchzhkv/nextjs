@@ -1,0 +1,38 @@
+{
+  "Home": {
+    "title": "Home"
+  },
+  "Privacy": {
+    "title": "Privacy"
+  },
+  "Terms": {
+    "title": "Terms"
+  },
+  "PathnamesPage": {
+    "title": "Pathnames",
+    "description": "<p>The pathnames are internationalized too.</p><p>If you're using the default language English, you'll see <code>/en/pathnames</code> in the browser address bar on this page.</p><p>If you change the locale to German, the URL is localized accordingly (<code>/de/pfadnamen</code>).</p>"
+  },
+  "Error": {
+    "title": "Something went wrong!",
+    "description": "<p>We've unfortunately encountered an error.</p><p>You can try to <retry>reload the page</retry> you were visiting.</p>"
+  },
+  "NotFoundPage": {
+    "title": "Page not found",
+    "description": "Please double-check the browser address bar or use the navigation to go to a known page."
+  },
+  "LocaleLayout": {
+    "title": "nextjs"
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, de {🇩🇪 Deutsch} en {🇺🇸 English} other {Unknown}}"
+  },
+  "Navigation": {
+    "home": "Home",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "sign-in": "Sign-in",
+    "sign-up": "Sign-up",
+    "account": "Account"
+  }
+}
